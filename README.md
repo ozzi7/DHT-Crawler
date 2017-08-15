@@ -1,2 +1,2 @@
 # DHT-Crawler
-Crawls the DHT, continuously maps infohashes to IP addresses
+Crawls the Mainline DHT, continuously maps infohashes to IP addresses
